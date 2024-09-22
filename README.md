@@ -2,6 +2,10 @@
 
 Welcome to the Library Management System project! 🚀 This Java-based system helps efficiently manage a library’s books, users, and transactions through both a command-line interface and a JavaFX-powered GUI! 🎨
 
+Video showing how the system works:
+https://github.com/user-attachments/assets/8e1c6d45-654a-4218-ae05-f6f9afb1e82f
+
+
 🌟 Features
 
 	•	📖 Book Management: Easily add, borrow, and return books.
@@ -39,9 +43,4 @@ Contributions are welcome! Feel free to open an issue or submit a pull request.
 
 🔒 License
 
-
-https://github.com/user-attachments/assets/454fa4e1-039c-4dc8-8e94-0037daf150b5
-
 This project is licensed under the MIT License.
-
-https://github.com/user-attachments/assets/8e1c6d45-654a-4218-ae05-f6f9afb1e82f
